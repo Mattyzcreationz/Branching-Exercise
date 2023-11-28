@@ -1,0 +1,27 @@
+What git command creates a branch?
+git checkout branch -b
+
+1 . What is the difference between a fast foward and a recursive merge?
+
+Answer: Recursive Merge is the more 
+is when their have been commits on the branch prior to merging them . This is more of a short handed version
+
+Answer: fast-foward merg
+is when their has not been commints on the branch prior to merging them. This is more of a formal way of transfering information.
+
+What git command changes to another branch?
+
+Answer: git checkout branch 
+
+what git command delets branch?
+
+Answer: git checkout branch -D
+
+How do merge conflicts happen?
+
+Answer: When git can not detemrine the athtfile or folder to chosoe when merging since ther have been different commits with changes to teh same file.
+
+Unfortunatly this hapens when Git is unable to figure out both.
+
+
+
